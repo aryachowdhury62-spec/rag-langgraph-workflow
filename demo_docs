@@ -1,0 +1,5 @@
+Retrieval-Augmented Generation (RAG) is an AI framework for improving LLM responses by grounding the model on external knowledge bases.
+LangGraph is a library within LangChain for building stateful, multi-actor applications with LLMs using graph structures.
+Embeddings convert text into dense vector representations where semantically similar items are positioned close to each other.
+FAISS (Facebook AI Similarity Search) is a library for efficient similarity search and clustering of dense vectors.
+Transformers are deep learning models introduced in 2026 that rely on self-attention mechanisms.
